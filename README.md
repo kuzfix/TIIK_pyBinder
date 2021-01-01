@@ -18,3 +18,7 @@ Predavanje 11 (Kvantizacija): [![Binder](https://mybinder.org/badge_logo.svg)](h
 
 Predavanje 12 (DPCM, ADPCM): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuzfix/TIIK_pyBinder/master?urlpath=lab/tree/P12_DPCM/P12_DPCM-1.ipynb)
 
+Predavanje 13 (Kodiranje Zvoka - Spektralno in časovno maskiranje): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuzfix/TIIK_pyBinder/master?urlpath=lab/tree/P13_KodiranjeZvoka/P13_TestiranjeMask.ipynb)
+
+Predavanje 14 (Kodiranje govora - skalabilnost): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuzfix/TIIK_pyBinder/master?urlpath=lab/tree/P14_KodiranjeGovora/P14_Groba+fina kvantizacija.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kuzfix/TIIK_pyBinder/master?urlpath=lab/tree/P14_KodiranjeGovora/P14_NBaudio+enhancements.ipynb)
