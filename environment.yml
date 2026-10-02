@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies: #comment
   - python
-  - zipp !=3.23.0
+  - zipp =3.22.0
   - ipywidgets
   - jupyterlab
   - jupyterhub-singleuser
