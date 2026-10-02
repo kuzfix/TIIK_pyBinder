@@ -2,7 +2,7 @@ solver: classic
 channels:
   - conda-forge
   - defaults
-dependencies:
+dependencies: #comment
   - python
   - ipywidgets
   - jupyterlab
